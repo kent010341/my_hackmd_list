@@ -9,4 +9,4 @@ Note | Language | Tag
 [Ruby Note](https://hackmd.io/@RczvJVpnTc-8XMQk2BnHtw/H1COKA6z7) | Mandarin | Programming Language
 [Kotlin Note](https://hackmd.io/@RczvJVpnTc-8XMQk2BnHtw/SyN6BBxAb) | Mandarin & English | Programming Language
 [SQL Note](https://hackmd.io/@RczvJVpnTc-8XMQk2BnHtw/BkqxxOqJM) | English | Programming Language
-[Advanced Google Searching Note](https://hackmd.io/@RczvJVpnTc-8XMQk2BnHtw/rJ8NpwMmI) | Mandarin | G
+[Advanced Google Searching Note](https://hackmd.io/@RczvJVpnTc-8XMQk2BnHtw/rJ8NpwMmI) | Mandarin | Google Search
