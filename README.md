@@ -1,5 +1,5 @@
 # my_hackmd_list
-Feel free to get them if you want!
+Feel free to read them!
 
 Note | Language 
 --- | ---
